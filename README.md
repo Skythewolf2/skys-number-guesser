@@ -1,2 +1,3 @@
-# skys-number-guesser
-This is just a small thing i made while learning to make games in python. 
+<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/Skythewolf2/skys-number-guesser"> <img alt="Python v3" src="https://img.shields.io/badge/python-v3-blue"> <img alt="How long it took" src="https://img.shields.io/badge/time%20taken-3%20hours-orange"> 
+<h1>Sky's Number Guesser!</h1>
+<p>This was something I made to learn more about python. Only thing it needs is Python 3.</p>
