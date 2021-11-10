@@ -1,4 +1,5 @@
 # Imports... Boring stuff. 
+# This line was added by VSCode for web.
 import random
 # Gets a "Random" number.
 rn = random.randint(1,100)
